@@ -1,0 +1,9 @@
+
+POST http://localhost:3000/login/
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjg2MDgyNDM2fQ.SHEkO4im4AQevrSQrpZ-UM4iV7n6jstZYAjoUlnlhFY
+Content-Type: application/json
+
+{
+  "username": "christopher_phillips",
+  "password": "christy@123"
+}
